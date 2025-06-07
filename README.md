@@ -15,7 +15,7 @@ This project analyzes **India's 2022 road accident data** to uncover meaningful 
 
 ---
 
-## 🧠 Objectives 
+## 🧠 Objectives
 
 - Perform **data cleaning and preprocessing** on official road accident datasets.
 - Use **exploratory data analysis (EDA)** to identify trends and patterns.
