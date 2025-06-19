@@ -7,7 +7,7 @@ Data visualization project analyzing India's 2022 road accident trends using Pyt
 **Course:** Data Analytics and Visualization (Academic Project)  
 **Language & Tools:** Python, Pandas, Matplotlib, Seaborn, Google Colab
 
----
+---     
 
 ## 📌 Overview
 
